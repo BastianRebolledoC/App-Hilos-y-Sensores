@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hilos y Sensores</string>
+    <string name="descripccion_contador">Este contador se genera a partir de un bucle infinito en un hilo extra, del cual aumenta el valor de una variable cada segundo, generando asi un contador que aumenta cada segundo.</string>
+    <string name="descripccion_snesores">Este apartado cuenta muestra a tiempo real el valor que devuelven en este caso los sensores de proximidad y de giroscopio.</string>
+</resources>
